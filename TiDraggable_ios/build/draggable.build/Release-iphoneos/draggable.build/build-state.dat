@@ -1,0 +1,440 @@
+Tdraggable
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch TiDraggable_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/libTiDraggable.a normal armv7
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005258E582000000000000036B
+t1381557634
+s875
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005258E58200000000000001A0
+t1381557634
+s416
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005258E5850000000000A92BC0
+t1381557637
+s11086784
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m
+c00000000518C733E0000000000000AB2
+t1368159038
+s2738
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m
+c00000000518C733E000000000000031D
+t1368159038
+s797
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m
+c00000000518C733E000000000000074B
+t1368159038
+s1867
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m
+c00000000518C733E0000000000000314
+t1368159038
+s788
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m
+c00000000518C733E0000000000001F35
+t1368159038
+s7989
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m
+c00000000518C733E00000000000004BA
+t1368159038
+s1210
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m
+c00000000518C733E0000000000000EB1
+t1368159038
+s3761
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/TiDraggable_Prefix.pch
+c00000000518C733E000000000000003E
+t1368159038
+s62
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/libTiDraggable.a
+t2
+s0
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o
+t1395730609
+s53112
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggable.LinkFileList
+c00000000533128AD0000000000000499
+t1395730605
+s1177
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o
+t1395730608
+s63132
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o
+t1395730609
+s50588
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o
+t1395730608
+s13428
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o
+t1395730608
+s4772
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o
+t1395730608
+s88096
+
+N/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o
+t1395730608
+s54436
+
+N/var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch
+t1395730607
+s3140652
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies535d8c2d60e1b841^473cdd2d60e1b841^---0#1#1#--18"Check dependencies36"9ED129B1-0A8D-4783-8B70-19426430ABFA-
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423408.892578
+e417423409.155735
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m238"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o [1mClasses/infinitescrollview/InfiniteScrollView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler519fe43060e1b841^99f4273160e1b841^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m0000000000000000^3949"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o [1mClasses/infinitescrollview/InfiniteScrollView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/InfiniteScrollView.o36"8F22B644-1C65-488B-8FF6-8DFBD5AD255A-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423408.625664
+e417423408.923404
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUIView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/defines.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiThreading.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPublicAPI.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiEvaluator.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollContext.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiCore.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/Ti.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollCallback.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollObject.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBindingRunLoop.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiAnimation.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPoint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiDimension.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiColor.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/ListenerEntry.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUtils.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/WebFont.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiFile.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBuffer.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBlob.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/LayoutConstraint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiGradient.h
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/infinitescrollview/InfiniteScrollView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiRect.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m233"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o [1mClasses/TiDraggableInfiniteScroll.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8c48a03060e1b841^c26aec3060e1b841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m0000000000000000^3953"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o [1mClasses/TiDraggableInfiniteScroll.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScroll.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScroll.o36"D4276E1C-089D-44FB-A98C-5EE8895DE05E-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423408.924973
+e417423409.187615
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/defines.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiThreading.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPublicAPI.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiEvaluator.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollContext.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiCore.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/Ti.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollCallback.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollObject.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBindingRunLoop.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUIView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiAnimation.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPoint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiDimension.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiColor.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/ListenerEntry.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUtils.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/WebFont.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiFile.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBuffer.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBlob.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/LayoutConstraint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiGradient.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiRect.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m243"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o [1mClasses/TiDraggableInfiniteScrollProxy.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler53e8ec3060e1b841^4208303160e1b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m0000000000000000^3983"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o [1mClasses/TiDraggableInfiniteScrollProxy.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableInfiniteScrollProxy.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableInfiniteScrollProxy.o36"8EB553D3-04E8-4186-91B3-C993B39CB254-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423407.755166
+e417423408.513392
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/defines.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiThreading.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPublicAPI.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiEvaluator.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollContext.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiCore.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/Ti.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollCallback.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollObject.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBindingRunLoop.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUtils.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiDimension.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiColor.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/WebFont.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiFile.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBuffer.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBlob.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiHost.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/Bridge.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m217"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o [1mClasses/TiDraggableModule.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c75c12f60e1b841^00e1833060e1b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m0000000000000000^3905"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o [1mClasses/TiDraggableModule.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModule.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModule.o36"B984CC4B-956B-4464-B505-75B64435E360-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423407.755905
+e417423408.072363
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m229"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o [1mClasses/TiDraggableModuleAssets.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf69bc12f60e1b841^43cb123060e1b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m0000000000000000^3941"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o [1mClasses/TiDraggableModuleAssets.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableModuleAssets.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableModuleAssets.o36"7EEB0C7F-3C00-4FD6-98B3-FCA43FBAC3AE-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423408.073893
+e417423408.624299
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUIView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/defines.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiThreading.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPublicAPI.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiEvaluator.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollContext.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiCore.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/Ti.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollCallback.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollObject.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBindingRunLoop.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiAnimation.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPoint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiDimension.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiColor.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/ListenerEntry.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUtils.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/WebFont.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiFile.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBuffer.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBlob.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/LayoutConstraint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiGradient.h
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiRect.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m213"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o [1mClasses/TiDraggableView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc007133060e1b841^f7ea9f3060e1b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m0000000000000000^3893"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o [1mClasses/TiDraggableView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableView.o36"29729C59-B58B-48A5-9B8D-28920E0ED937-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CCompileC build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423408.514880
+e417423408.890928
+r1
+xCompileC
+xbuild/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiProxy.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/defines.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiThreading.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPublicAPI.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiEvaluator.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollContext.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiCore.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/Ti.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiBase.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollCallback.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/KrollObject.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBindingRunLoop.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUIView.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiAnimation.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiPoint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiDimension.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiColor.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/ListenerEntry.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiModule.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiUtils.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/WebFont.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiFile.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBuffer.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiBlob.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/LayoutConstraint.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiGradient.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiRect.h
+d/Users/indianic/Library/Application Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiViewTemplate.h
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m223"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o [1mClasses/TiDraggableViewProxy.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler91ee833060e1b841^ba4de43060e1b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m0000000000000000^3923"[1mCompileC[0m build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o [1mClasses/TiDraggableViewProxy.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 -include /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch -MMD -MT dependencies -MF /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.d --serialize-diagnostics /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.dia -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/Classes/TiDraggableViewProxy.m -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggableViewProxy.o36"5ACB1A6E-9448-4405-BFEF-278FB38163A1-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CLibtool /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/libTiDraggable.a normal armv7
+s417423409.196509
+e417423409.224080
+r1
+xLibtool
+x/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/libTiDraggable.a
+xnormal
+xarmv7
+o/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"[1mLibtool[0m build/Release-iphoneos/libTiDraggable.a normal armv768"[1mLibtool[0m build/Release-iphoneos/libTiDraggable.a normal armv7f165323160e1b841^185e393160e1b841^-161"/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1079"[1mLibtool[0m build/Release-iphoneos/libTiDraggable.a normal armv7    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -filelist /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/Objects-normal/armv7/TiDraggable.LinkFileList -ObjC -framework Foundation -o /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/libTiDraggable.a36"3D8AC4AC-2FDE-465D-B18B-7392FF72C9B5-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
+CProcessPCH /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch TiDraggable_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417423405.870365
+e417423407.746622
+r1
+xProcessPCH
+x/var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch
+xTiDraggable_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/TiDraggable_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile TiDraggable_Prefix.pch303"[1mProcessPCH[0m /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch TiDraggable_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler5cffde2d60e1b841^0c21bf2f60e1b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/TiDraggable_Prefix.pch0000000000000000^3878"[1mProcessPCH[0m /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch TiDraggable_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=187 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.0 -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-generated-files.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-own-target-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-all-target-headers.hmap -iquote /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/TiDraggable-project-headers.hmap -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include -I/Users/indianic/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.2.GA/iphone/include/TiCore -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources/armv7 -I/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/draggable.build/Release-iphoneos/draggable.build/DerivedSources -F/Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/build/Release-iphoneos -DTI_POST_1_2 --serialize-diagnostics /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.d -c /Users/indianic/Documents/Titanium_Studio_Workspace/TiDraggable_ios/TiDraggable_Prefix.pch -o /var/folders/2l/6m9gcn2j31186249wt2f6t4w0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/TiDraggable_Prefix-gozqfpizilkellczonlhflhrbuio/TiDraggable_Prefix.pch.pch36"006FD1E5-A39C-42CA-AA54-874AA4751EE0-
+b0B929165-2540-4975-A724-4CBEE70EE6C9
+
